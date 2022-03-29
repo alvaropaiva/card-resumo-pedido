@@ -1,0 +1,1 @@
+Order summary feito por mim, site: https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-H1HCPs2Mc. 
